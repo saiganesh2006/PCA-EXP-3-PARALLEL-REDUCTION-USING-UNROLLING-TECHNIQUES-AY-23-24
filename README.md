@@ -381,4 +381,4 @@ int main(int argc, char **argv)
 ![image](https://github.com/user-attachments/assets/238037fa-64d6-4a67-8c83-57e3ef39b359)
 
 ## RESULT:
-Thus the program has been executed by unrolling by 8 and unrolling by 16. It is observed that 16 has executed with less elapsed time than 8 with blocks 0.000324 sec,0.123117 sec,.
+Thus the program has been executed by unrolling by 8 and unrolling by 16. It is observed that 16 has executed with less elapsed time than 8 with blocks 0.000324 sec,0.123117 sec.
